@@ -36,7 +36,7 @@ Javascript & jQuery 수업예제
 
 ## Ch08. 다양한 효과와 애니메이션
 > sub1. jquery animation 1  
-> sub2. jquery animation 2
+> sub2. jquery animation 2   
 > sub3. 애니메이션 옵션   
 > sub4. slider 애니메이션 1   
 > sub5. slider 애니메이션 2   
